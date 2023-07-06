@@ -1,0 +1,5 @@
+/TOLERANCE-CHART/
+/**/SOP/
+
+# Ignore files starting with "FLENDER" and ending with ".pdf"
+**/FLENDER*.*
