@@ -64,6 +64,12 @@ This repository contains the G-code files for FLENDER jobs.
   - Status: Proven
 &nbsp;
 
+- **5876659**
+  - Program Names: O6591, O6592, O6593, O6594, O6597, O6598, O6599
+  - Offset Values Range: H75 - D86
+  - Status: Proven
+&nbsp;
+
 - **5876660**
   - Program Names: O6601, O6602, O6603, O6604, O6607, O6608, O6609
   - Offset Values Range: H250 - D259
@@ -98,6 +104,12 @@ This repository contains the G-code files for FLENDER jobs.
   - Program Names: O6741, O6742, O6743, O6744, O6747, O6748, O6749
   - Offset Values Range: H290 - D299
   - Status: Modernised
+&nbsp;
+
+- **5876675**
+  - Program Names: O6751, O6752, O6753, O6754, O6757, O6758, O6759
+  - Offset Values Range: H75 - D86
+  - Status: Proven
 &nbsp;
 
 - **5880634**
@@ -140,6 +152,12 @@ This repository contains the G-code files for FLENDER jobs.
   - Program Names: O5802, O5803, O5804, O5805
   - Offset Values Range: H201 - D207
   - Status: Legacy
+&nbsp;
+
+- **F2E01473648A**
+  - Program Names: O6481, O6482, O6483, O6484, O6487, O6488, O6489
+  - Offset Values Range: H90 - D102
+  - Status: Proven
 &nbsp;
 
 ## Usage
